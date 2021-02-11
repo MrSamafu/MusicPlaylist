@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samso\\Documents\\GitHub\\MvcMusic\\MvcMusic.csproj": {}
+    "C:\\Users\\MrSamafu\\source\\repos\\MusicPlaylist\\MvcMusic\\MvcMusic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samso\\Documents\\GitHub\\MvcMusic\\MvcMusic.csproj": {
+    "C:\\Users\\MrSamafu\\source\\repos\\MusicPlaylist\\MvcMusic\\MvcMusic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samso\\Documents\\GitHub\\MvcMusic\\MvcMusic.csproj",
+        "projectUniqueName": "C:\\Users\\MrSamafu\\source\\repos\\MusicPlaylist\\MvcMusic\\MvcMusic.csproj",
         "projectName": "MvcMusic",
-        "projectPath": "C:\\Users\\samso\\Documents\\GitHub\\MvcMusic\\MvcMusic.csproj",
-        "packagesPath": "C:\\Users\\samso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samso\\Documents\\GitHub\\MvcMusic\\obj\\",
+        "projectPath": "C:\\Users\\MrSamafu\\source\\repos\\MusicPlaylist\\MvcMusic\\MvcMusic.csproj",
+        "packagesPath": "C:\\Users\\MrSamafu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MrSamafu\\source\\repos\\MusicPlaylist\\MvcMusic\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\samso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MrSamafu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

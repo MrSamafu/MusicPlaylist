@@ -171,3 +171,14 @@ C:\Users\samso\Documents\GitHub\MvcMusic\obj\Debug\net5.0\Razor\Views\Musics\Del
 C:\Users\samso\Documents\GitHub\MvcMusic\obj\Debug\net5.0\Razor\Views\Musics\Details.cshtml.g.cs
 C:\Users\samso\Documents\GitHub\MvcMusic\obj\Debug\net5.0\Razor\Views\Musics\Edit.cshtml.g.cs
 C:\Users\samso\Documents\GitHub\MvcMusic\obj\Debug\net5.0\Razor\Views\Musics\Index.cshtml.g.cs
+C:\Users\MrSamafu\source\repos\MusicPlaylist\MvcMusic\obj\Debug\net5.0\MvcMusic.dll
+C:\Users\MrSamafu\source\repos\MusicPlaylist\MvcMusic\obj\Debug\net5.0\ref\MvcMusic.dll
+C:\Users\MrSamafu\source\repos\MusicPlaylist\MvcMusic\obj\Debug\net5.0\MvcMusic.pdb
+C:\Users\MrSamafu\source\repos\MusicPlaylist\MvcMusic\obj\Debug\net5.0\MvcMusic.csprojAssemblyReference.cache
+C:\Users\MrSamafu\source\repos\MusicPlaylist\MvcMusic\obj\Debug\net5.0\MvcMusic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrSamafu\source\repos\MusicPlaylist\MvcMusic\obj\Debug\net5.0\MvcMusic.AssemblyInfoInputs.cache
+C:\Users\MrSamafu\source\repos\MusicPlaylist\MvcMusic\obj\Debug\net5.0\MvcMusic.AssemblyInfo.cs
+C:\Users\MrSamafu\source\repos\MusicPlaylist\MvcMusic\obj\Debug\net5.0\MvcMusic.csproj.CoreCompileInputs.cache
+C:\Users\MrSamafu\source\repos\MusicPlaylist\MvcMusic\obj\Debug\net5.0\MvcMusic.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MrSamafu\source\repos\MusicPlaylist\MvcMusic\obj\Debug\net5.0\MvcMusic.RazorAssemblyInfo.cache
+C:\Users\MrSamafu\source\repos\MusicPlaylist\MvcMusic\obj\Debug\net5.0\MvcMusic.RazorAssemblyInfo.cs
