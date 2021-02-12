@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "f7mHz+MyrXYt9bxG0FaVpIl15bpT4M1/uDTfT5x0xvhv8y3HpVysHC4VTbaDmSryvwUhsHIZQv5CaTbFIi2+DQ==",
+  "dgSpecHash": "LKYQW+CwEhbP74rVPjNVScf5NrT3w/jnf2wgL3OZKP0gZ4h/X08nByPmpf957bfeRXyk5u7EW6VLPSx0yFziNQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\MrSamafu\\source\\repos\\MusicPlaylist\\MvcMusic\\MvcMusic.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,7 @@
     "C:\\Users\\MrSamafu\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\5.0.3\\microsoft.entityframeworkcore.sqlite.5.0.3.nupkg.sha512",
     "C:\\Users\\MrSamafu\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\5.0.3\\microsoft.entityframeworkcore.sqlite.core.5.0.3.nupkg.sha512",
     "C:\\Users\\MrSamafu\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.3\\microsoft.entityframeworkcore.sqlserver.5.0.3.nupkg.sha512",
+    "C:\\Users\\MrSamafu\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.3\\microsoft.entityframeworkcore.tools.5.0.3.nupkg.sha512",
     "C:\\Users\\MrSamafu\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\MrSamafu\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\MrSamafu\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
