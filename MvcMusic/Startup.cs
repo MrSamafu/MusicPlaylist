@@ -17,7 +17,7 @@ namespace MvcMusic
     {
         public Startup(IConfiguration configuration)
         {
-            Environment = env;
+            //Environment = env;
             Configuration = configuration;
         }
 
@@ -29,19 +29,8 @@ namespace MvcMusic
         {
             services.AddControllersWithViews();
 
-        services.AddDbContext<MvcMusicContext>(options =>
-        {
-            var connectionString = Configuration.GetConnectionString("MvcMusicContext");
-
-            if (Environment.IsDevelopment())
-            {
-                options.UseSqlite(connectionString);
-            }
-            else
-            {
-                options.UseSqlServer(connectionString);
-            }
-        });
+            services.AddDbContext<MvcMusicContext>(options =>
+                options.UseSqlServer(Configuration.GetConnectionString("MvcMusicContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
